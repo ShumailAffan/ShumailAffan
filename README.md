@@ -2,7 +2,6 @@
 
 ![Banner](https://your-banner-image-url.com)
 
-
 I am a **Computer Science Student** 🎓, passionate about **Full-Stack Development** 🚀, currently working as a **Web Developer & Flutter Developer Intern** at **UET Game Studio** 🎮. I love creating seamless user experiences and exploring new technologies!
 
 ---
@@ -46,3 +45,4 @@ I am a **Computer Science Student** 🎓, passionate about **Full-Stack Developm
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shumailaffan502@gmail.com)
 
 💡 **Let's collaborate & build something amazing!** 🚀
+
