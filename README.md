@@ -1,6 +1,7 @@
 ### Hi there, I'm Muhammad Shumail Affan! 👋
 
-![Banner](https://your-banner-image-url.com)  
+![Banner](https://your-banner-image-url.com)
+
 
 I am a **Computer Science Student** 🎓, passionate about **Full-Stack Development** 🚀, currently working as a **Web Developer & Flutter Developer Intern** at **UET Game Studio** 🎮. I love creating seamless user experiences and exploring new technologies!
 
