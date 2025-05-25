@@ -9,7 +9,7 @@ I'm passionate about crafting seamless user experiences and diving into new tech
 ### 🚀 About Me
 
 * 🎓 Pursuing a **B.S. in Computer Science** at **The Superior University, Lahore**.
-* 💻 Honing my skills as a **Web  Developer Intern** at **UET Game Studio**.
+* 💻 Honnered my skills as a **Web  Developer Intern** at **UET Game Studio**.
 * 🔥 Deeply interested in **Backend Development** & **Cloud Computing**.
 * 🌱 Currently expanding my knowledge in **DevOps, Docker & Cloud Technologies**.
 * 🎙 Proudly serving as a **Student Voice Leader (SVL)** at Superior University.
