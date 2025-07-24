@@ -8,7 +8,7 @@ I'm passionate about building user-friendly websites and exploring the tools tha
 
 ### 🚀 About Me
 
-- 🎓 Studying **B.S. in Computer Science** at **The Superior University, Lahore** (2023–2026).
+- 🎓 Studying **B.S. in Computer Science** at **The Superior University, Lahore** (2023–2027).
 - 💻 Worked as a **Front-End Web Developer Intern** at **UET Game Studio**, where I built responsive web pages using HTML, CSS, JavaScript, Bootstrap 5, and Tailwind CSS.
 - 🔧 Strong interest in **Backend Development**, **Cloud Computing**, and **Network Administration**.
 - 🌐 Currently enrolled in the **CCNA (Cisco Certified Network Associate)** course through **NAVTTC**, gaining skills in routing, switching, IPv4/IPv6, and network security.
