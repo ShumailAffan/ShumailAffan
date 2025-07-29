@@ -83,8 +83,7 @@
 - 📚 Master React + Tailwind + Firebase integration
 - ⚙️ Build Fullstack Projects (CRUD, Auth, Admin Dashboard)
 - ☁️ Learn DevOps Tools (GitHub Actions, Docker)
-- 📝 Begin CSS Competitive Exam Prep (Post-Graduation)
-
+  
 ---
 
 ## 📬 Connect With Me
