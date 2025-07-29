@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7971E&background=FEE8D0FF&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Muhammad+Shumail+Affan!;CS+Student+%7C+Web+Dev+%7C+Future+SSG+Officer;Frontend+%7C+React+%7C+Bootstrap+%7C+Tailwind;Coding+Dreamer+%F0%9F%8E%A8+Builder+of+Digital+Worlds!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Muhammad+Shumail+Affan!;CS+Student+%7C+Web+Dev+%7C+Future+SSG+Officer;Frontend+%7C+React+%7C+Bootstrap+%7C+Tailwind;Builder+of+Digital+Worlds+%F0%9F%8E%A8" alt="Typing SVG" />
 </h1>
 
 ---
@@ -12,29 +12,20 @@
 
 ## 💡 About Me
 
-🎓 BSCS Student @ Superior University Lahore  
-⚔️ Passionate about tech & Pakistan Army (SSG Dreamer)  
-💻 Frontend Developer | Exploring Backend | DevOps Curious  
-🛒 Building “**Halal Super Mart**” with real-time product listing, dark mode, and Firebase  
-🛠️ Tech Stack: HTML, CSS, JavaScript, React, Tailwind, Bootstrap, Firebase  
-📂 Projects include: AI Image Processor, Apartment Manager, Parking System  
+- 🎓 BSCS Student @ **Superior University, Lahore**  
+- ⚔️ Passionate about tech and **Pakistan Army (SSG Dreamer)**  
+- 💻 Frontend Developer | Exploring Backend & DevOps  
+- 🛒 Building **Halal Super Mart** – A complete superstore with Firebase, cart, real-time UI  
+- 🧠 Tech Stack: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Firebase  
+- 📂 Projects include: AI Image Processor, Apartment Manager, Parking System, Bus Cargo System
 
 ---
 
-## 🚀 My Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase,git,vscode&theme=light" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shumailaffan&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumailaffan&layout=compact&theme=radical" height="180"/>
-</div>
 
 ---
 
@@ -48,17 +39,38 @@
 
 ---
 
-## 🌟 Highlights
+## 💼 Featured Projects
 
-- 🎯 **Frontend Focused**: Passionate about UI/UX, responsiveness, and modern design  
-- 📦 **Real Projects**: Superstore Website, Hotel Management, Bus Cargo System in C++  
-- 🌍 **Leadership**: Student Voice Leader @ Superior University  
-- 💬 **Languages**: English, Urdu, Punjabi  
+| Project                     | Description                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| 🚀 **Halal Super Mart**     | Firebase-based superstore site with dark mode, cart, admin dashboard        |
+| 🏨 **Hotel Management (C++)** | Menu-driven system to manage cuisine, booking, billing using OOP             |
+| 🚚 **Bus Cargo System (C++)** | Cargo + passenger booking, fare, file handling using C++ OOP                 |
+| 🏢 **Apartment Manager**     | Admin-resident system with login, complaint & rent portal                   |
+| 🧠 **AI Image Processor**    | Simple web-based AI image enhancement platform using filters                 |
 
 ---
 
-## 🔥 Fun Animated Touch
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shumailaffan&show_icons=true&theme=chartreuse-dark&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&bg_color=000000" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumailaffan&layout=compact&theme=chartreuse-dark&title_color=39FF14&text_color=FFFFFF&bg_color=000000" height="180"/>
+</p>
+
+---
+
+## 👑 Highlights
+
+- 🎯 **Frontend Focused** – Passionate about responsive UI/UX  
+- 🔧 **Real Projects** – Not just theory: actual working systems  
+- 🧑‍💼 **Leadership** – Student Voice Leader at Superior University  
+- 💬 **Languages** – English, Urdu, Punjabi
+
+---
+
+## ✨ Fun Animated Quote
 
 ```diff
-+ ✨ “Front-End is my canvas. Code is my paint.” 🎨
-- I don't just code — I create interactive experiences.
++ "Front-End is my canvas. Code is my paint." 🎨
+- I don't just code — I craft interactive digital realities.
