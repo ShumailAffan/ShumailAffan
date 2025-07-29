@@ -1,101 +1,94 @@
-<!-- README.md -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=39FF14&background=000000&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Shumail+Affan;A+passionate+Frontend+Developer;Tech+Enthusiast+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8E%93;Aspiring+Full-Stack+Engineer"
-  alt="Typing SVG" />
+  Hi 👋, I'm <span style="color:#00FF00;">Shumail Affan</span>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;React+%7C+Flutter+%7C+Firebase+Lover;Student+%7C+Future+CSS+Aspirant;Let's+Build+Something+Great!" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🌟 About Me
-- 🎓 BS Computer Science | Superior University Lahore  
-- 💻  Web Developer Intern @ UET Game Studio  
-- 📍 Lahore, Pakistan  
-- 🎯 Focused on Front-End | Learning Back-End & Cloud DevOps  
-- 🧠 Currently Learning: React, Firebase, GitHub, Tailwind, Next.js  
-- 📬 Reach me at: shumailaffan.dev@gmail.com  
-- 🌐 Portfolio Coming Soon!
+### 🚀 About Me
+
+- 💻 I’m currently working on **Halal Super Mart**
+- 🎯 I'm aiming to become a **Full Stack Dev + CSS Officer**
+- 📚 I'm studying **BSCS - Superior University**
+- 🧠 Currently learning **React, DevOps, Firebase & Cloud**
+- 💬 Ask me about `Frontend`, `Flutter`, `Firebase`, `CSS`
+- 📫 Email me at: `shumailaffanofficial@gmail.com`
+- ⚡ Fun fact: *Debugging is like being a detective in a crime movie where you're also the murderer*
 
 ---
 
 ### 🎓 Certifications & Courses
 
-#### ✅ Meta Front-End Developer (Coursera)
-- ✔️ Introduction to Front-End Development  
-- ✔️ Programming with JavaScript  
-- ✔️ Version Control  
-- ✔️ HTML and CSS in Depth  
-- ⏳ React Basics  
-- ⏳ Advanced React  
-- ⏳ Principles of UX/UI Design  
-- ⏳ Front-End Capstone  
-- ⏳ Coding Interview Prep  
+**Meta Front-End Developer Track**
+- ✅ Introduction to Front-End Development
+- ✅ Programming with JavaScript
+- ✅ Version Control
+- ✅ HTML and CSS in depth
+- 🔜 React Basics
+- 🔜 Advanced React
+- 🔜 UX/UI Design
+- 🔜 Capstone Project
+- 🔜 Interview Prep
 
-#### 🧠 Vanderbilt University – *AI Productivity Mastery*
-- ✔️ Prompt Engineering for ChatGPT  
-- ✔️ Advanced Prompt Engineering  
-- ✔️ Create Custom GPTs (Assistants)  
+**Vanderbilt University - AI Specialization**
+- ✅ Prompt Engineering for ChatGPT
+- ✅ Advanced Prompt Engineering
+- ✅ Custom AI Assistants with GPTs
 
-#### 🐍 Meta - *Programming in Python* – 100% Complete
+**Microsoft**
+- ✅ Microsoft 365 Fundamentals
+- ✅ Work Smarter with Word, Excel, PowerPoint
+- ✅ Fundamentals of Microsoft 365 Generative AI
 
-#### 💼 Microsoft 365 Specialist
-- ✔️ Word, Excel, PowerPoint  
-- ✔️ Microsoft 365 Fundamentals  
-- ✔️ MS 365 Generative AI
-
----
-
-### 🚀 Skills & Tools
-
-**Languages & Libraries**  
-`HTML` `CSS` `JavaScript` `Python` `Tailwind` `Bootstrap`  
-`React.js` `Firebase` `C++` `SQL`
-
-**Tools & Tech**  
-`Git & GitHub` `VS Code` `MS Office` `ChatGPT` `Canva` `Figma`
+**Meta Python Course**
+- ✅ Programming in Python
 
 ---
 
-### 💡 Projects Snapshot
-
-- ✅ **AI Image Processing Website** (HTML, CSS, JS, Python)  
-- ✅ **Apartment Management System**  
-- ✅ **Bus Cargo Management System (C++ OOP with File Handling)**  
-- ✅ **Hotel Management System (C++ - Menu Driven)**  
-- 🔄 **Halal Super Mart (React + Firebase Full Frontend)** – *In Progress*
-
----
-
-### 🧠 What I'm Currently Up To
-
-- 🔭 Building: **Halal Super Mart Web App**  
-- 🌱 Exploring: **DevOps, Firebase, Docker**  
-- 🧪 Practicing: **React Components + Routing**  
-- 🤝 Open to collaboration & freelance opportunities  
-
----
-
-### 🔥 GitHub Stats
+### 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shumailaffan&show_icons=true&theme=tokyonight&title_color=39FF14&text_color=FFFFFF&bg_color=000000&icon_color=39FF14" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumailaffan&layout=compact&theme=tokyonight&title_color=39FF14&text_color=FFFFFF&bg_color=000000" height="180px" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,github,git,firebase,flutter,python,figma,vscode,nodejs,express,mongodb,linux" />
 </p>
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shumail-affan&show_icons=true&theme=tokyonight&title_color=00ff00&text_color=ffffff&bg_color=000000&icon_color=00ff00" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shumail-affan&theme=neon-dark&background=000000" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumail-affan&layout=compact&theme=tokyonight&bg_color=000000&title_color=00ff00&text_color=ffffff" alt="Top Languages"/>
+</p>
 
 ---
 
-### 📫 Let's Connect!
+### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/shumailaffan)  
-[![GitHub](https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shumailaffan)
-
----
-
-### ⚡ Fun Fact:
-> I find life harder than coding… but still love both 😎
+<p align="center">
+  <a href="https://www.linkedin.com/in/shumail-affan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shumailaffanofficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/shumail-affan" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-#### 💚 Made with passion by **Shumail Affan**
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/shumail-affan/shumail-affan/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 💖 Support
+
+If you like my work, consider leaving a ⭐️ on my repo and connecting with me!
 
