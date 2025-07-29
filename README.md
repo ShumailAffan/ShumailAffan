@@ -1,94 +1,66 @@
+
+
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00FF00;">Shumail Affan</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7971E&background=FEE8D0FF&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Muhammad+Shumail+Affan!;CS+Student+%7C+Web+Dev+%7C+Future+SSG+Officer;Frontend+%7C+React+%7C+Bootstrap+%7C+Tailwind;Coding+Dreamer+%F0%9F%8E%A8+Builder+of+Digital+Worlds!" alt="Typing SVG" />
 </h1>
 
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px" height="auto" />
+</div>
+
+---
+
+## 💡 About Me
+
+🎓 BSCS Student @ Superior University Lahore  
+⚔️ Passionate about tech & Pakistan Army (SSG Dreamer)  
+💻 Frontend Developer | Exploring Backend | DevOps Curious  
+🛒 Building “**Halal Super Mart**” with real-time product listing, dark mode, and Firebase  
+🛠️ Tech Stack: HTML, CSS, JavaScript, React, Tailwind, Bootstrap, Firebase  
+📂 Projects include: AI Image Processor, Apartment Manager, Parking System  
+
+---
+
+## 🚀 My Tech Stack
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;React+%7C+Flutter+%7C+Firebase+Lover;Student+%7C+Future+CSS+Aspirant;Let's+Build+Something+Great!" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase,git,vscode" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 📈 GitHub Stats
 
-- 💻 I’m currently working on **Halal Super Mart**
-- 🎯 I'm aiming to become a **Full Stack Dev + CSS Officer**
-- 📚 I'm studying **BSCS - Superior University**
-- 🧠 Currently learning **React, DevOps, Firebase & Cloud**
-- 💬 Ask me about `Frontend`, `Flutter`, `Firebase`, `CSS`
-- 📫 Email me at: `shumailaffanofficial@gmail.com`
-- ⚡ Fun fact: *Debugging is like being a detective in a crime movie where you're also the murderer*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shumailaffan&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumailaffan&layout=compact&theme=radical" height="180"/>
+</div>
 
 ---
 
-### 🎓 Certifications & Courses
+## 🏅 Certifications
 
-**Meta Front-End Developer Track**
-- ✅ Introduction to Front-End Development
-- ✅ Programming with JavaScript
-- ✅ Version Control
-- ✅ HTML and CSS in depth
-- 🔜 React Basics
-- 🔜 Advanced React
-- 🔜 UX/UI Design
-- 🔜 Capstone Project
-- 🔜 Interview Prep
-
-**Vanderbilt University - AI Specialization**
-- ✅ Prompt Engineering for ChatGPT
-- ✅ Advanced Prompt Engineering
-- ✅ Custom AI Assistants with GPTs
-
-**Microsoft**
-- ✅ Microsoft 365 Fundamentals
-- ✅ Work Smarter with Word, Excel, PowerPoint
-- ✅ Fundamentals of Microsoft 365 Generative AI
-
-**Meta Python Course**
-- ✅ Programming in Python
+- 🌐 **Coursera** – Responsive Web Design & HTML5  
+- 🎓 **Meta** – Programming with JavaScript  
+- 🔐 **Cisco** – CCNA: Introduction to Networks  
+- 💾 **Google** – Firebase Essentials  
+- 📊 **Microsoft** – Excel for Data Analysis
 
 ---
 
-### 🧠 Tech Stack & Tools
+## 🌟 Highlights
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,github,git,firebase,flutter,python,figma,vscode,nodejs,express,mongodb,linux" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shumail-affan&show_icons=true&theme=tokyonight&title_color=00ff00&text_color=ffffff&bg_color=000000&icon_color=00ff00" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shumail-affan&theme=neon-dark&background=000000" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumail-affan&layout=compact&theme=tokyonight&bg_color=000000&title_color=00ff00&text_color=ffffff" alt="Top Languages"/>
-</p>
+- 🎯 **Frontend Focused**: Passionate about UI/UX, responsiveness, and modern design  
+- 📦 **Real Projects**: Superstore Website, Hotel Management, Bus Cargo System in C++  
+- 🌍 **Leadership**: Student Voice Leader @ Superior University  
+- 💬 **Languages**: English, Urdu, Punjabi
 
 ---
 
-### 🔗 Connect with Me
+## 🔥 Fun Animated Touch
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shumail-affan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shumailaffanofficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/shumail-affan" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/shumail-affan/shumail-affan/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 💖 Support
-
-If you like my work, consider leaving a ⭐️ on my repo and connecting with me!
-
+```diff
++ ✨ “Front-End is my canvas. Code is my paint.” 🎨
+- I don't just code — I create interactive experiences.
