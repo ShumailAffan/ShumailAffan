@@ -1,6 +1,6 @@
 <!-- README.md -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Muhammad+Shumail+Affan!;CS+Student+%7C+Web+Dev+%7C+Future+SSG+Officer;Frontend+%7C+React+%7C+Tailwind+%7C+Bootstrap;Builder+of+Digital+Worlds+%F0%9F%94%A5+Dream+Coder!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Muhammad+Shumail+Affan!;CS+Student+%7C+Web+Dev+%7C+;Frontend+%7C+React+%7C+Tailwind+%7C+Bootstrap;Builder+of+Digital+Worlds+%F0%9F%94%A5+Dream+Coder!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ## 💡 About Me
 
 🧑‍💻 BSCS Student at Superior University, Lahore  
-🛡️ Passionate about Tech & Pakistan Army (SSG Dreamer)  
+🛡️ Passionate about Tech & Pakistan Army   
 🎯 Frontend Dev | Learning Backend & DevOps | Firebase Explorer  
 🛒 Creator of **Halal Super Mart** – Real-time Firebase Store with Cart, Auth, Dark Mode  
 🛠️ **Stack**: HTML, CSS, JS, React, Tailwind, Bootstrap, Firebase  
