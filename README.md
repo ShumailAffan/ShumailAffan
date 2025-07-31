@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hi+There!+👋+I'm+Muhammad+Shumail+Affan;Computer+Science+Student+%7C+Web+Dev+%7C+Network+Admin+Aspiring" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hi+There!+👋+I'm+Muhammad+Shumail+Affan;Computer+Science+Student+%7C+Web+Dev+%7C+Network+Admin+Aspiring" alt="Typing SVG" />
 
 ---
 
