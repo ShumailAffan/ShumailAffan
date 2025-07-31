@@ -8,9 +8,9 @@
 ### 💡 About Me
 
 🎓 **B.S. Computer Science** @ *The Superior University, Lahore* (2023–2027)  
-💻 **Front-End Intern** @ *UET Game Studio* → Built responsive UIs using **HTML**, **CSS**, **JavaScript**, **Bootstrap 5**, **Tailwind CSS**  
+💻 **Web Intern** @ *UET Game Studio* → Built responsive UIs using **HTML**, **CSS**, **JavaScript**, **Bootstrap 5**, **Tailwind CSS**  
 🌐 Passionate about **Backend Dev**, **Cloud Computing**, and **Networking**  
-🧠 Enrolled in **CCNA** @ *NAVTTC* → Learning **routing**, **switching**, **IPv4/IPv6**, and **network security**  
+🧠 Completed **CCNA** @ *NAVTTC* → Learning **routing**, **switching**, **IPv4/IPv6**, and **network security**  
 ⚙️ Exploring **DevOps**, **Docker**, and automation tools  
 🎤 **Student Voice Leader (SVL)** → Advocating for positive campus change!
 
@@ -64,7 +64,7 @@
 
 ### 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shumail-affan-80179b272/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shumail-affan-80179b272)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShumailAffan)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shumailaffan502@gmail.com)
 
