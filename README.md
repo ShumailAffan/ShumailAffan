@@ -76,17 +76,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=435&lines=Tracking+my+developer+journey...;Let's+build+something+amazing!" alt="Typing SVG" />
 </h3>
 
-## 📊 My GitHub Stats
+## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumail-affan&layout=compact&theme=tokyonight&langs_count=6" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shumail-affan&show_icons=true&theme=tokyonight&border_radius=8" width="45%" />
-</p>
+<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shumail-affan&show_icons=true&theme=tokyonight&border_radius=8" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shumail-affan&theme=tokyonight&border_radius=8" width="400" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shumail-affan&bg_color=1a1b27&color=f97316&line=ffffff&point=F97316&area=true&hide_border=true" width="800" alt="GitHub Activity Graph" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shumail-affan&theme=tokyonight&border_radius=8" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shumail-affan&bg_color=1a1b27&color=f97316&line=ffffff&point=F97316&area=true&hide_border=true" />
-</p>
