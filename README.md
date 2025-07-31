@@ -71,3 +71,17 @@
 ---
 
 > ✨ *“Learning is my superpower. Let’s build something meaningful together!”*
+
+## ⚡ GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Focused-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-100%2B-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repositories-30+-success?style=for-the-badge&logo=repo" />
+</p>
+
+<div align="center" style="backdrop-filter: blur(10px); border-radius: 12px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shumail-affan&show_icons=true&theme=tokyonight&border_radius=12" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shumail-affan&theme=tokyonight&border_radius=12" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shumail-affan&bg_color=1a1b27&color=f97316&line=ffffff&point=F97316&area=true&hide_border=true" width="100%" />
+</div>
