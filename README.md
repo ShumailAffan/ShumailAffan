@@ -1,4 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=1000&lines=Hi+There!+👋+I'm+Muhammad+Shumail+Affan;CS+Student+%7C+Web+Dev+%7C+Network+Enthusiast;Frontend+to+Fullstack+in+progress..." alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=F7971E&width=1000&lines=Hi+There!+👋+I'm+Muhammad+Shumail+Affan;Computer+Science+Student+%7C+Web+Dev+%7C+Network+Enthusiast;Frontend+to+Fullstack+in+progress..." alt="Typing SVG" />
+</p>
+
 
 
 ### 💡 About Me
