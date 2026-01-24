@@ -1,80 +1,71 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShumailAffan/ShumailAffan/main/github_high_tech_banner_1769238691452.png" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=System.init('M.+Shumail+Affan');Loading+Future+Fullstack...;status:+Building+Scalable+Solutions" alt="Typing SVG" />
+</div>
+
+---
+
+### � CURRENT EXECUTION
+
+<blockquote>
+  <p><i>"I don't just write code; I architect digital experiences that bridge the gap between AI-driven logic and high-performance interfaces."</i></p>
+</blockquote>
+
+*   � **Strategic Learning:** Finalizing B.S. CS at **Superior University, Lahore** (2023–2027).
+*   💻 **Industry Immersion:** Ex-Intern @ **UET Game Studio** — where I mastered the art of responsive architecture.
+*   ⚡ **Deep Stack:** Obsessed with **Python**, **React**, and building robust APIs that don't break under pressure.
+*   📡 **Cloud & Core:** Certified **CCNA** enthusiast — bridging the gap between software and the networks that run it.
+*   🏛️ **Leadership:** Serving as **Student Voice Leader (SVL)** — coding solutions for campus growth.
+
+---
+
+### �️ TECHNICAL ARSENAL
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,cpp,mysql,docker,linux,vite,vscode,github,discord,figma&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShumailAffan&show_icons=true&theme=neon&hide_border=true&title_color=00ff88&text_color=ffffff&icon_color=00ccff&bg_color=0a0a0a" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShumailAffan&layout=compact&theme=neon&hide_border=true&title_color=00ccff&text_color=ffffff&icon_color=00ff88&bg_color=0a0a0a" width="48%" />
+</div>
+
+---
+
+### 🚀 RECENT SHIPMENTS
+
+*   **⚡ AI Vision Processor** | *Python + Diffusers* — High-speed stable diffusion integration for creative automation.
+*   **� Asset Core** | *MySQL + Backend Logic* — Large-scale management system for multi-tenant environments.
+*   **🛠️ Network Ops** | *Cisco CLI* — Designing secure, scalable IPv4/v6 architectures.
+
+---
+
+### 📡 CONNECT PROTOCOL
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Muhammad%20Shumail%20Affan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Explorer%20|%20Network%20Enthusiast&descSize=20&descAlignY=55" />
+  <a href="https://linkedin.com/in/muhammad-shumail-affan-80179b272" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shumailaffan502@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Muhammad+Shumail+Affan;CS+Student+%7C+Web+Dev+%7C+Network+Enthusiast;Frontend+to+Fullstack+Journey+in+Progress..." alt="Typing SVG" />
-</p>
+<br/>
 
-### 💡 About Me
-
-🎓 **B.S. Computer Science** @ *The Superior University, Lahore* (2023–2027)  
-💻 **Web Intern** @ *UET Game Studio* → Built responsive UIs using **HTML**, **CSS**, **JavaScript**, **Bootstrap 5**, **Tailwind CSS**  
-🌐 Passionate about **Backend Dev**, **Cloud Computing**, and **Networking**  
-🧠 Completed **CCNA** @ *NAVTTC* → Learning **routing**, **switching**, **IPv4/IPv6**, and **network security**  
-⚙️ Exploring **DevOps**, **Docker**, and automation tools  
-🎤 **Student Voice Leader (SVL)** → Advocating for positive campus change!
-
----
-
-### 🧰 Tech Toolbox
-
-#### 👨‍💻 Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-#### 🗃️ Databases & DevOps
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### 🔌 Networking & Tools
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
-
----
-
-### 🔥 Featured Projects
-
-🚧 **Apartment Management System**  
-> A database-driven system to manage tenants, payments, and maintenance requests.  
-> `Tech Stack:` SQL, DBMS, Backend Logic
-
-🎨 **AI Image Processing Website**  
-> Python-based site to generate AI images using Stable Diffusion.  
-> `Tech Stack:` Python, Diffusers, APIs, SQL
-
----
-
-### 📈 Contribution & Activity
-
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/ShumailAffan/ShumailAffan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShumailAffan&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShumailAffan&theme=radical&hide_border=true" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShumailAffan&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+</div>
 
 ---
 
-### 🌍 Let's Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammad-shumail-affan-80179b272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-shumail-affan-80179b272" height="30" width="40" /></a>
-<a href="https://github.com/ShumailAffan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShumailAffan" height="30" width="40" /></a>
-<a href="mailto:shumailaffan502@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/priority/social-icons/master/gmail.svg" alt="shumailaffan502@gmail.com" height="30" width="40" /></a>
-</p>
-
----
-
-> ✨ *“Learning is my superpower. Let’s build something meaningful together!”*
+<div align="center">
+  <sub>Built with precision. Engineered for impact.</sub>
+</div>
