@@ -99,6 +99,7 @@ Leadership, coordination, and student representation.
 
 ---
 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ShumailAffan/ShumailAffan/output/github-contribution-grid-snake.svg" />
 </div>
