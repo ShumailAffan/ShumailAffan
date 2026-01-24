@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Muhammad%20Shumail%20Affan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Explorer%20|%20Network%20Enthusiast&descSize=20&descAlignY=55" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Muhammad+Shumail+Affan;CS+Student+%7C+Web+Dev+%7C+Network+Enthusiast;Frontend+to+Fullstack+Journey+in+Progress..." alt="Typing SVG" />
 </p>
 
@@ -48,7 +52,11 @@
 
 ---
 
-### 📈 GitHub Stats & Streaks
+### 📈 Contribution & Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShumailAffan/ShumailAffan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShumailAffan&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -61,9 +69,11 @@
 
 ### 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shumail-affan-80179b272)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShumailAffan)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shumailaffan502@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammad-shumail-affan-80179b272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-shumail-affan-80179b272" height="30" width="40" /></a>
+<a href="https://github.com/ShumailAffan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShumailAffan" height="30" width="40" /></a>
+<a href="mailto:shumailaffan502@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/priority/social-icons/master/gmail.svg" alt="shumailaffan502@gmail.com" height="30" width="40" /></a>
+</p>
 
 ---
 
