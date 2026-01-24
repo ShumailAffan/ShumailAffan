@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Muhammad+Shumail+Affan;CS+Student+%7C+Web+Dev+%7C+Network+Enthusiast;Frontend+to+Fullstack+Journey+in+Progress..." alt="Typing SVG" />
 </p>
 
-
-
-
 ### 💡 About Me
 
 🎓 **B.S. Computer Science** @ *The Superior University, Lahore* (2023–2027)  
@@ -71,4 +68,3 @@
 ---
 
 > ✨ *“Learning is my superpower. Let’s build something meaningful together!”*
-
