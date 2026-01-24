@@ -5,26 +5,26 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=System.init('M.+Shumail+Affan');Loading+Future+Fullstack...;status:+Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=System.init('M.+Shumail+Affan');Junior+Fullstack+Engineer;status:+Open+for+Opportunities" alt="Typing SVG" />
 </div>
 
 ---
 
-### � CURRENT EXECUTION
+### 🟢 CORE COMPETENCIES
 
 <blockquote>
-  <p><i>"I don't just write code; I architect digital experiences that bridge the gap between AI-driven logic and high-performance interfaces."</i></p>
+  <p><i>"I architect digital experiences that bridge the gap between high-performance logic and seamless user interfaces."</i></p>
 </blockquote>
 
-*   � **Strategic Learning:** Finalizing B.S. CS at **Superior University, Lahore** (2023–2027).
-*   💻 **Industry Immersion:** Ex-Intern @ **UET Game Studio** — where I mastered the art of responsive architecture.
-*   ⚡ **Deep Stack:** Obsessed with **Python**, **React**, and building robust APIs that don't break under pressure.
-*   📡 **Cloud & Core:** Certified **CCNA** enthusiast — bridging the gap between software and the networks that run it.
-*   🏛️ **Leadership:** Serving as **Student Voice Leader (SVL)** — coding solutions for campus growth.
+*   ⚡ **Full-Stack Development:** Specialized in building scalable applications using **React**, **FastAPI**, and **Node.js**.
+*   � **Network Engineering:** **CCNA** enthusiast with deep knowledge in secure routing, switching, and protocol optimization.
+*   🏛️ **Leadership & Advocacy:** Serving as **Student Voice Leader** — driving organizational change through solution-oriented leadership.
+*   � **Professional Experience:** Hands-on internship @ **UET Game Studio** — developing production-ready web architectures.
+*   � **Academic Foundation:** Finalizing B.S. Computer Science @ **Superior University** (2023–2027).
 
 ---
 
-### �️ TECHNICAL ARSENAL
+### ️ TECHNICAL ARSENAL
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,cpp,mysql,docker,linux,vite,vscode,github,discord,figma&theme=dark" />
