@@ -5,92 +5,130 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=850&lines=M.+Shumail+Affan;Junior+Software+Engineer;BSCS+%7C+Web+%26+Systems+Development;Open+for+Internships+%26+Entry-Level+Roles" />
+  <h1>M. Shumail Affan</h1>
+  <h3>📱 Mobile & 🌐 Web Developer</h3>
+  <p><b>Flutter • React • Frontend-Focused Full Stack</b></p>
+  <p>🚀 Building clean, user-friendly, and scalable applications</p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who I Am
 
-Final-year **Computer Science undergraduate** with practical experience in **web development**, strong foundation in **networks & systems**, and active leadership role as **Student Voice Leader**.
+I’m a final-year **Computer Science student** who builds **real-world web and mobile applications** — not just projects for grades.
 
-I focus on building **clean, functional, and scalable applications** while continuously strengthening my engineering fundamentals.
+I focus on:
+- Turning ideas into **working products**
+- Writing **clean, maintainable code**
+- Creating **smooth user experiences**
+
+Alongside development, I serve as a **Student Voice Leader**, which strengthened my ability to **lead, communicate, and deliver under responsibility**.
 
 ---
 
-## 🎯 What I Bring
+## 🎯 What Makes Me Different
 
-<div align="center">
+💡 I don’t just code — I **solve problems**
 
-<img src="https://img.shields.io/badge/Web_Development-HTML%20%7C%20CSS%20%7C%20JS-00ff88?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Backend-Python%20%7C%20PHP-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Databases-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Networking-CCNA_Level-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" />
+- I build apps that are **practical and usable**
+- I focus on **UI + functionality together**
+- I learn fast and adapt to new technologies quickly
+- I understand both **technical + user perspective**
 
-</div>
+---
+
+## 🛠 My Skill Set
+
+### 📱 Mobile Development
+- Flutter (UI design, navigation, app structure)
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript
+- React (component-based architecture)
+
+### ⚙️ Backend & Systems
+- Python, PHP (basic backend logic)
+- MySQL (database design)
+
+### 🧰 Tools & Technologies
+- Git & GitHub  
+- Docker (learning)  
+- Linux environment  
 
 ---
 
 ## 💼 Experience
 
-**Web Developer Intern — UET Game Studio**  
-UI development, feature implementation, and project collaboration.
+### 🔹 Web & Flutter Developer Intern — UET Game Studio
+- Built UI components for web and mobile apps  
+- Worked on real-world features and improvements  
+- Collaborated in a team-based development environment  
 
-**Web Developer Intern — Prodigy Infotech (Remote)**  
-Frontend development using HTML, CSS, JavaScript.
+### 🔹 Web Developer Intern — Prodigy Infotech
+- Developed responsive web pages  
+- Strengthened frontend fundamentals  
 
-**Student Voice Leader — Superior University**  
-Leadership, coordination, and student representation.
-
----
-
-## 🚀 Projects
-
-| Project | Description |
-|--------|------------|
-| **Halal Super Mart** | React-based superstore frontend with auth, cart, admin panel |
-| **Apartment Management System** | Tenant, billing & role-based web system |
-| **Parking Management System** | Final year project with sensors & automation |
-| **Portfolio Website** | Personal portfolio using HTML, CSS, JS |
+### 🔹 Student Voice Leader — Superior University
+- Managed student communication and coordination  
+- Developed leadership and problem-solving skills  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Projects (What I’ve Built)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,php,mysql,docker,linux,git,github,vscode&theme=dark" />
-</div>
-
----
-
-## 📊 GitHub Performance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShumailAffan&show_icons=true&theme=neon&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShumailAffan&layout=compact&theme=neon&hide_border=true" width="47%" />
-</div>
+### 🛒 Halal Super Mart
+A complete **superstore system** (Web + Mobile)  
+- Authentication system  
+- Shopping cart functionality  
+- Admin panel concept  
+- Focus: real-world usability  
 
 ---
 
-## 🌱 Currently Improving
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-Advanced_Patterns-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/DevOps-Docker_%7C_CI/CD-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-Basics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-
-</div>
+### 🏢 Apartment Management System
+- Role-based system (Admin / Tenant)  
+- Billing and management features  
+- Built using PHP & MySQL  
 
 ---
 
-## 📬 Connect
+### 🚗 Parking Management System (FYP)
+- Smart parking using sensors  
+- Automation-based solution  
+- Focus on real-world problem solving  
+
+---
+
+### 🌐 Portfolio Website
+- Fully responsive personal website  
+- Clean UI + smooth design  
+
+---
+
+## 📈 Currently Growing In
+
+- Advanced Flutter Development  
+- React Best Practices  
+- DevOps (Docker, CI/CD)  
+- Cloud Basics  
+
+---
+
+## 📢 What I’m Looking For
+
+I’m actively looking for:
+
+- 📱 Mobile App Developer (Flutter) roles  
+- 🌐 Frontend / Full Stack opportunities  
+- 💼 Internships & Entry-Level Positions  
+
+---
+
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-shumail-affan-80179b272">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Shumsil_Affan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Shumail_Affan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shumailaffan502@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-shumailaffan502-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -99,11 +137,6 @@ Leadership, coordination, and student representation.
 
 ---
 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShumailAffan/ShumailAffan/output/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
-  <sub>Professional. Modern. Recruiter-Optimized.</sub>
+  <sub>“I build solutions — not just projects.”</sub>
 </div>
