@@ -1,142 +1,131 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShumailAffan/ShumailAffan/main/github_high_tech_banner_1769238691452.png" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h1>M. Shumail Affan</h1>
-  <h3>📱 Mobile & 🌐 Web Developer</h3>
-  <p><b>Flutter • React • Frontend-Focused Full Stack</b></p>
-  <p>🚀 Building clean, user-friendly, and scalable applications</p>
+  <img src="https://raw.githubusercontent.com/ShumailAffan/ShumailAffan/main/github_high_tech_banner_1769238691452.png" />
 </div>
 
 ---
 
-## 👨‍💻 Who I Am
+<div align="center">
 
-I’m a final-year **Computer Science student** who builds **real-world web and mobile applications** — not just projects for grades.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=FF7A00&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Shumail+Affan;Mobile+%26+Web+Developer;Flutter+%7C+React+Developer;Building+Real+World+Applications;Open+for+Opportunities+🚀" />
 
-I focus on:
-- Turning ideas into **working products**
-- Writing **clean, maintainable code**
-- Creating **smooth user experiences**
-
-Alongside development, I serve as a **Student Voice Leader**, which strengthened my ability to **lead, communicate, and deliver under responsibility**.
+</div>
 
 ---
 
-## 🎯 What Makes Me Different
+## 🚀 About Me  
 
-💡 I don’t just code — I **solve problems**
+💡 I don’t just write code — I build **real-world solutions**  
 
-- I build apps that are **practical and usable**
-- I focus on **UI + functionality together**
-- I learn fast and adapt to new technologies quickly
-- I understand both **technical + user perspective**
-
----
-
-## 🛠 My Skill Set
-
-### 📱 Mobile Development
-- Flutter (UI design, navigation, app structure)
-
-### 🌐 Web Development
-- HTML, CSS, JavaScript
-- React (component-based architecture)
-
-### ⚙️ Backend & Systems
-- Python, PHP (basic backend logic)
-- MySQL (database design)
-
-### 🧰 Tools & Technologies
-- Git & GitHub  
-- Docker (learning)  
-- Linux environment  
+- 📱 Mobile App Developer (Flutter)  
+- 🌐 Web Developer (React, JS)  
+- ⚡ Focused on clean UI + scalable systems  
+- 🎯 Turning ideas into working products  
 
 ---
 
-## 💼 Experience
+## 🎯 What I Do  
 
-### 🔹 Web & Flutter Developer Intern — UET Game Studio
-- Built UI components for web and mobile apps  
-- Worked on real-world features and improvements  
-- Collaborated in a team-based development environment  
-
-### 🔹 Web Developer Intern — Prodigy Infotech
-- Developed responsive web pages  
-- Strengthened frontend fundamentals  
-
-### 🔹 Student Voice Leader — Superior University
-- Managed student communication and coordination  
-- Developed leadership and problem-solving skills  
+✨ Build responsive web apps  
+✨ Develop mobile apps with Flutter  
+✨ Create smooth UI/UX experiences  
+✨ Solve real-world problems with code  
 
 ---
 
-## 🚀 Projects (What I’ve Built)
+## 🛠 Tech Stack  
 
-### 🛒 Halal Super Mart
-A complete **superstore system** (Web + Mobile)  
-- Authentication system  
-- Shopping cart functionality  
-- Admin panel concept  
-- Focus: real-world usability  
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=flutter,react,html,css,js,python,php,mysql,docker,linux,git,github,vscode&theme=dark" />
 
-### 🏢 Apartment Management System
-- Role-based system (Admin / Tenant)  
-- Billing and management features  
-- Built using PHP & MySQL  
+</div>
 
 ---
 
-### 🚗 Parking Management System (FYP)
-- Smart parking using sensors  
-- Automation-based solution  
-- Focus on real-world problem solving  
+## 🚀 Featured Projects  
+
+### 🛒 Halal Super Mart  
+💡 Full e-commerce system (Web + Mobile)  
+⚙️ React | Firebase | Flutter  
+✔ Auth | Cart | Admin Panel  
 
 ---
 
-### 🌐 Portfolio Website
-- Fully responsive personal website  
-- Clean UI + smooth design  
+### 🏢 Apartment Management System  
+⚙️ PHP | MySQL  
+✔ Role-based system | Billing  
 
 ---
 
-## 📈 Currently Growing In
-
-- Advanced Flutter Development  
-- React Best Practices  
-- DevOps (Docker, CI/CD)  
-- Cloud Basics  
+### 🚗 Parking Management System  
+💡 Smart parking using sensors  
+✔ Automation-based solution  
 
 ---
 
-## 📢 What I’m Looking For
+## 📊 GitHub Stats  
 
-I’m actively looking for:
+<div align="center">
 
-- 📱 Mobile App Developer (Flutter) roles  
-- 🌐 Frontend / Full Stack opportunities  
-- 💼 Internships & Entry-Level Positions  
+<img src="https://github-readme-stats.vercel.app/api?username=ShumailAffan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShumailAffan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
-## 🤝 Let’s Connect
+## 🔥 Streak Stats  
 
-<p align="center">
-  <a href="https://linkedin.com/in/muhammad-shumail-affan-80179b272">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Shumail_Affan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shumailaffan502@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-shumailaffan502-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShumailAffan&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning  
+
+🚀 Advanced Flutter  
+🚀 React Best Practices  
+🚀 DevOps (Docker, CI/CD)  
+🚀 Cloud Basics  
+
+---
+
+## 📢 Open to Opportunities  
+
+💼 Looking for:
+- Mobile App Developer (Flutter)  
+- Frontend / Full Stack Roles  
+
+---
+
+## 🤝 Connect With Me  
+
+<div align="center">
+
+<a href="https://linkedin.com/in/muhammad-shumail-affan-80179b272">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shumailaffan502@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>“I build solutions — not just projects.”</sub>
+
+<img src="https://raw.githubusercontent.com/ShumailAffan/ShumailAffan/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+  <h3>⚡ “I build products, not just projects.”</h3>
 </div>
