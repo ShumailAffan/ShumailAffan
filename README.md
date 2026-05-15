@@ -1,131 +1,141 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ShumailAffan/ShumailAffan/main/github_high_tech_banner_1769238691452.png" />
-</div>
+# 👋 Welcome to My GitHub Profile
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:185FA5&height=200&section=header&text=Shumail%20Affan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20React%20Developer%20%7C%20Backend%20Learner&descAlignY=60&descSize=16)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=378ADD&width=700&lines=Flutter+%26+React+Developer;BSCS+Student+%40+Superior+University;Building+Practical+and+Real+World+Projects)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShumailAffan&color=378ADD&style=flat-square&label=Profile+Views)
 
 ---
 
-<div align="center">
+# 👨‍💻 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=FF7A00&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Shumail+Affan;Mobile+%26+Web+Developer;Flutter+%7C+React+Developer;Building+Real+World+Applications;Open+for+Opportunities+🚀" />
-
-</div>
-
----
-
-## 🚀 About Me  
-
-💡 I don’t just write code — I build **real-world solutions**  
-
-- 📱 Mobile App Developer (Flutter)  
-- 🌐 Web Developer (React, JS)  
-- ⚡ Focused on clean UI + scalable systems  
-- 🎯 Turning ideas into working products  
+- 🎓 BSCS Student at Superior University
+- 💼 Frontend & Flutter Intern at UET Game Studio
+- 🌱 Currently learning Backend Development, DevOps & Cloud
+- 🚀 Interested in Flutter, React, Full Stack Development & Cybersecurity
+- 🛠️ Building practical projects and improving problem-solving skills
 
 ---
 
-## 🎯 What I Do  
+# 🛠️ Skills
 
-✨ Build responsive web apps  
-✨ Develop mobile apps with Flutter  
-✨ Create smooth UI/UX experiences  
-✨ Solve real-world problems with code  
+## 📱 Mobile Development
 
----
-
-## 🛠 Tech Stack  
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,react,html,css,js,python,php,mysql,docker,linux,git,github,vscode&theme=dark" />
-
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects  
+## 🌐 Web Development
 
-### 🛒 Halal Super Mart  
-💡 Full e-commerce system (Web + Mobile)  
-⚙️ React | Firebase | Flutter  
-✔ Auth | Cart | Admin Panel  
-
----
-
-### 🏢 Apartment Management System  
-⚙️ PHP | MySQL  
-✔ Role-based system | Billing  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-### 🚗 Parking Management System  
-💡 Smart parking using sensors  
-✔ Automation-based solution  
+## 🗄️ Backend & Database
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats  
+## ⚙️ Tools & Technologies
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShumailAffan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShumailAffan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🔥 Streak Stats  
+# 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ShumailAffan&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌱 Currently Learning  
-
-🚀 Advanced Flutter  
-🚀 React Best Practices  
-🚀 DevOps (Docker, CI/CD)  
-🚀 Cloud Basics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShumailAffan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShumailAffan&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
 
 ---
 
-## 📢 Open to Opportunities  
+# 🔥 GitHub Streak
 
-💼 Looking for:
-- Mobile App Developer (Flutter)  
-- Frontend / Full Stack Roles  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShumailAffan&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🤝 Connect With Me  
+# 🚀 Featured Projects
 
-<div align="center">
+## 🅿️ Parking Management System
 
-<a href="https://linkedin.com/in/muhammad-shumail-affan-80179b272">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/ShumailAffan/parking-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShumailAffan&repo=parking-management-system&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="mailto:shumailaffan502@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+---
+
+## 🤖 AI Image Processing Website
+
+<a href="https://github.com/ShumailAffan/ai-image-processing-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShumailAffan&repo=ai-image-processing-website&theme=tokyonight&hide_border=true" />
 </a>
 
-</div>
+---
+
+## 🏢 Apartment Management System
+
+<a href="https://github.com/ShumailAffan/apartment-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShumailAffan&repo=apartment-management-system&theme=tokyonight&hide_border=true" />
+</a>
 
 ---
 
-<div align="center">
+## 🛒 Halal Super Mart
 
-<img src="https://raw.githubusercontent.com/ShumailAffan/ShumailAffan/output/github-contribution-grid-snake.svg" />
-
-</div>
+<a href="https://github.com/ShumailAffan/halal-super-mart">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShumailAffan&repo=halal-super-mart&theme=tokyonight&hide_border=true" />
+</a>
 
 ---
 
-<div align="center">
-  <h3>⚡ “I build products, not just projects.”</h3>
-</div>
+# 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShumailAffan&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShumailAffan/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+# ⏱️ WakaTime Stats
+
+[![Shumail's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShumailAffan&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@ShumailAffan)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShumailAffan)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shumailaffan502@gmail.com)
+
+---
+
+# 💡 Quote
+
+> “Consistency beats intensity.” 🚀
